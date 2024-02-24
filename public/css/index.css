@@ -38,7 +38,7 @@ body.mobile {
 /* media query for #navigation-container, when it's desktop, apply margin-left: 75%; */
 @media (min-width: 768px) {
     #navigation-container {
-        margin-left: 75%;
+        margin-left: 70%;
     }
 }
 /* add one for tablets */
